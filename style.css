@@ -4,7 +4,7 @@
 
 body {
     font-family: 'Cinzel', serif; /* Cinzel font applied to the entire body */
-    color: white; /* Navy blue for font */
+    color: rgb(18, 9, 9); /* Navy blue for font */
     margin: 0;
     padding: 0;
     background-color: #f4ece1; /* Muted white */
@@ -27,6 +27,7 @@ body {
 
     .page-header {
         text-align: center;
+        color: white;
     }
 
 
